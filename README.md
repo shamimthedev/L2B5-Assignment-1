@@ -1,6 +1,6 @@
 # TypeScript Superpowers: Meet Interfaces, Types, and the Magic of Inference
 
-Want to make your JavaScript projects more organized and less less buggy? Meet TypeScript — your new coding buddy! It helps you write safer and easier-to-manage code by letting you define the types of your variables, objects, and functions.
+Want to make your JavaScript projects more organized and less buggy? Meet TypeScript — your new coding buddy! It helps you write safer and easier-to-manage code by letting you define the types of your variables, objects, and functions.
 
 If you’re just starting out, learning about interfaces, types, their differences, and how TypeScript guesses types (type inference) will help you write cleaner and more reliable code.
 
